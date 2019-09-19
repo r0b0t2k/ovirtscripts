@@ -1,10 +1,7 @@
 #!/bin/bash
 ### This script for the time being only collects information from the OVIRT API and displays it, when the need arises it will be easy to convert it to actually shutdown all the VMs in ovirt.
-<<<<<<< HEAD
 #test text
-=======
 
->>>>>>> b6cc8941dfd0a767360033e700005582016e4afb
 #First we need to gather some information from the user.
 
 echo -e "What is the host of the ovirt engine you would like VM information from? I.E. (host.myovirt.net): \c"
